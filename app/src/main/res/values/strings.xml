@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FYP_Version1.0.1</string>
+    <string-array name="UserRole">
+        <item>Vendor</item>
+        <item>Customer</item>
+        <item>Rider</item>
+
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vender_home">Vender</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_customer_home">Customer</string>
+    <string name="title_activity_rider_home">Rider</string>
+    <string name="title_activity_venders_maps">Map</string>
+    <string name="title_activity_customers_maps">Map</string>
+    <string name="title_activity_practice_maps">Map</string>
+</resources>
