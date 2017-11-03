@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/virtualmartfyp/FYPversion2" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/virtualmartfyp/FYPversion3" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Projects\FYPVERSION2Final" />
+    <option name="cloneParentDir" value="F:\Projects\FYPVersion3.1" />
   </component>
 </application>
